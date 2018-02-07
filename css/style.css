@@ -1,0 +1,10 @@
+.quote-text {
+  width: 70%;
+  margin: 0 auto;
+  font-style: italic;
+}
+
+#quote {
+  background: #fed136;
+  margin: 50px 0;
+}
